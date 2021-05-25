@@ -1,3 +1,37 @@
+## [8.0.6](https://github.com/NativeScript/NativeScript/compare/8.0.5-core...8.0.6) (2021-05-20)
+
+
+### Bug Fixes
+
+* **a11y:** add missing application event for fontScaleChanged ([#9396](https://github.com/NativeScript/NativeScript/issues/9396)) ([dac36c6](https://github.com/NativeScript/NativeScript/commit/dac36c68015512553689f6803d147da92f89cd93))
+* **a11y:** font size ([#9395](https://github.com/NativeScript/NativeScript/issues/9395)) ([7a92c16](https://github.com/NativeScript/NativeScript/commit/7a92c1646f92f8afb9f8a87306cc90e8d2043e91))
+* **Device:** don't cache device language & region ([#9394](https://github.com/NativeScript/NativeScript/issues/9394)) ([95596e8](https://github.com/NativeScript/NativeScript/commit/95596e82302bb945e6bf2126f19d9245e358cb79)), closes [#6082](https://github.com/NativeScript/NativeScript/issues/6082)
+* **ios:** image with alpha resize ([#9386](https://github.com/NativeScript/NativeScript/issues/9386)) ([f380782](https://github.com/NativeScript/NativeScript/commit/f380782766b7034e4f776ad78e941fd9ac405c0b)), closes [#9385](https://github.com/NativeScript/NativeScript/issues/9385)
+* **RootLayout:** prevent android touch event to pass through views underneath ([#9389](https://github.com/NativeScript/NativeScript/issues/9389)) ([0b2c190](https://github.com/NativeScript/NativeScript/commit/0b2c190662ceb63524049ac7792643414510858d))
+
+
+### Features
+
+* **text-view:** add returnPress ([#9390](https://github.com/NativeScript/NativeScript/issues/9390)) ([64adf5e](https://github.com/NativeScript/NativeScript/commit/64adf5ecfce5cae1582cbbf7d704e2ef9b75dd01)), closes [#4882](https://github.com/NativeScript/NativeScript/issues/4882)
+* **Utils:** add dismissSoftInput helper ([#9392](https://github.com/NativeScript/NativeScript/issues/9392)) ([6cf4c59](https://github.com/NativeScript/NativeScript/commit/6cf4c5981b866c8a164eea0d53fd4c93875e8ba0)), closes [#4594](https://github.com/NativeScript/NativeScript/issues/4594)
+* **web-view:** disableZoom property ([#9391](https://github.com/NativeScript/NativeScript/issues/9391)) ([7e878f8](https://github.com/NativeScript/NativeScript/commit/7e878f83a39478a7a33d89f08579df97db70fe00))
+
+
+
+## [8.0.5](https://github.com/NativeScript/NativeScript/compare/8.0.4-core...8.0.5) (2021-05-10)
+
+
+### Bug Fixes
+
+* **android:** image asset handling regarding requestLegacyExternalStorage ([#9373](https://github.com/NativeScript/NativeScript/issues/9373)) ([f311151](https://github.com/NativeScript/NativeScript/commit/f3111514960ada615a69418b906620a638f8f476))
+
+
+### Features
+
+* **docs:** typedoc api reference ([#9378](https://github.com/NativeScript/NativeScript/issues/9378)) ([6d91c2a](https://github.com/NativeScript/NativeScript/commit/6d91c2a0195e07c182d2fccfb9c6f7d783acc4b7))
+
+
+
 ## [8.0.4](https://github.com/NativeScript/NativeScript/compare/8.0.3-core...8.0.4) (2021-05-05)
 
 
